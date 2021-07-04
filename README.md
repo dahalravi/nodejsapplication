@@ -168,7 +168,7 @@ metadata:
 data:
   MONGO_HOSTNAME: "mongo-mongodb-replicaset-0.mongo-mongodb-replicaset.default.svc.cluster.local,mongo-mongodb-replicaset-1.mongo-mongodb-replicaset.default.svc.cluster.local,mongo-mongodb-replicaset-2.mongo-mongodb-replicaset.default.svc.cluster.local"
   MONGO_PORT: "27017"
-  MONGO_DB: "mangodb"
+  MONGO_DB: "sharkinfo"
   MONGO_REPLICASET: "db"
   
 18) Integrating Environment Variables into Your Helm Deployment like Dev and SIT 
